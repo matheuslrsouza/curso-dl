@@ -1,0 +1,8 @@
+name: curso-dl
+channels:
+- defaults
+dependencies:
+- jupyter=1.0.0=py36_3
+- matplotlib=2.0.2=np113py36_0
+- numpy=1.13.1=py36_0
+- python=3.6.2=0
